@@ -1,0 +1,21 @@
+{
+  "name": "buoi5-express-fetch-api",
+  "version": "1.0.0",
+  "description": "Bai tap thuc hanh Node.js Express Middleware Routing Fetch API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "fetch-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.1.0"
+  }
+}
